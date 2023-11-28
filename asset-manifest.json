@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/wakfu-rpg-app/static/css/main.21c8d640.css",
+    "main.js": "/wakfu-rpg-app/static/js/main.b8aa1216.js",
+    "static/js/787.a4fbcc8d.chunk.js": "/wakfu-rpg-app/static/js/787.a4fbcc8d.chunk.js",
+    "static/media/players_bg.jpg": "/wakfu-rpg-app/static/media/players_bg.46765e067638b2d41754.jpg",
+    "static/media/amakna.jpg": "/wakfu-rpg-app/static/media/amakna.f18692f6919b62d99a75.jpg",
+    "static/media/sufokia.jpg": "/wakfu-rpg-app/static/media/sufokia.d6fc6c0bb471ec9a66b0.jpg",
+    "static/media/brakmar.jpg": "/wakfu-rpg-app/static/media/brakmar.c4944f6e9e64038a79d6.jpg",
+    "static/media/bonta.jpg": "/wakfu-rpg-app/static/media/bonta.67ec14e1eeb030e22242.jpg",
+    "static/media/astrub.jpg": "/wakfu-rpg-app/static/media/astrub.45fbc581b584b25138c3.jpg",
+    "index.html": "/wakfu-rpg-app/index.html",
+    "main.21c8d640.css.map": "/wakfu-rpg-app/static/css/main.21c8d640.css.map",
+    "main.b8aa1216.js.map": "/wakfu-rpg-app/static/js/main.b8aa1216.js.map",
+    "787.a4fbcc8d.chunk.js.map": "/wakfu-rpg-app/static/js/787.a4fbcc8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c8d640.css",
+    "static/js/main.b8aa1216.js"
+  ]
+}
